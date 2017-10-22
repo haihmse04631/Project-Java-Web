@@ -1,8 +1,1 @@
- Code Android:
-+ Java
-+ NodeJS (express , socket IO)
-+ Fire base
-+ IDE: Android studio
-
-- Server: NodeJS: X-Press, socket IO.
-- Andoid: Java, fire base, Socket io.
+Tra da via he…. Ahihi
